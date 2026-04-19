@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\11\\source\\repos\\OOP_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D133082C-4D8A-4D5F-8ADB-C7D55A7B6867}|OOP_Lab3\\OOP_Lab3.csproj|c:\\users\\11\\source\\repos\\oop_lab3\\oop_lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D133082C-4D8A-4D5F-8ADB-C7D55A7B6867}|OOP_Lab3\\OOP_Lab3.csproj|solutionrelative:oop_lab3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\11\\source\\repos\\OOP_Lab3\\OOP_Lab3\\Form1.cs",
+              "RelativeDocumentMoniker": "OOP_Lab3\\Form1.cs",
+              "ToolTip": "C:\\Users\\11\\source\\repos\\OOP_Lab3\\OOP_Lab3\\Form1.cs [Design]",
+              "RelativeToolTip": "OOP_Lab3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:33:42.989Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
